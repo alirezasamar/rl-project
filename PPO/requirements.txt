@@ -1,6 +1,6 @@
 gym==0.21.0
 gym[box2d]==0.21.0
-torch==2.2.0
+torch==2.6.0
 box2d==2.3.2
 box2d-py==2.3.5
 box2d-kengz==2.3.3
